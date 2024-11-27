@@ -1,0 +1,7 @@
+pandas==1.5.3
+pickle5==0.0.11
+streamlit==1.26.0
+numpy==1.24.4
+gunicorn==20.1.0
+
+
